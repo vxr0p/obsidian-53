@@ -1,0 +1,36 @@
+! Title: Obsidian-53
+! Description: Personal AdGuard DNS blocklist
+! Homepage: https://github.com/USERNAME/obsidian-53
+! Syntax: AdGuard DNS filtering rules
+
+! === Yandex ===
+||yandex.ru^
+||yandex.com^
+||yandex.net^
+||yandex.eu^
+||yandex.com.tr^
+||ya.ru^
+||yastatic.net^
+||yandex.st^
+
+! === RT (Russia Today) ===
+||rt.com^
+||rt.ru^
+||rttv.ru^
+||rtde.me^
+||rtde.live^
+||rtde.site^
+||rtde.team^
+||rtde.world^
+
+! === NIUS ===
+||nius.de^
+
+! === BILD ===
+||bild.de^
+
+! === Fox News ===
+||foxnews.com^
+
+! === COMPACT Magazin ===
+||compact-online.de^
