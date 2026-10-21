@@ -1,9 +1,11 @@
 ! Title: Obsidian-53
 ! Description: Personal AdGuard DNS blocklist
-! Homepage: https://github.com/USERNAME/obsidian-53
 ! Syntax: AdGuard DNS filtering rules
+! Updated: 2026-10-21
 
-! === Yandex ===
+! ========================================
+! YANDEX
+! ========================================
 ||yandex.ru^
 ||yandex.com^
 ||yandex.net^
@@ -13,7 +15,9 @@
 ||yastatic.net^
 ||yandex.st^
 
-! === RT (Russia Today) ===
+! ========================================
+! RT / RUSSIA TODAY
+! ========================================
 ||rt.com^
 ||rt.ru^
 ||rttv.ru^
@@ -23,14 +27,33 @@
 ||rtde.team^
 ||rtde.world^
 
-! === NIUS ===
+! ========================================
+! WEITERE RUSSISCHE STAATSMEDIEN
+! UND EINFLUSSKANAELE
+! ========================================
+||sputniknews.com^
+||ria.ru^
+||news-front.su^
+||southfront.org^
+||voiceofeurope.com^
+
+! ========================================
+! DEUTSCHE UND INTERNATIONALE
+! NACHRICHTENPORTALE
+! ========================================
 ||nius.de^
-
-! === BILD ===
 ||bild.de^
-
-! === Fox News ===
 ||foxnews.com^
-
-! === COMPACT Magazin ===
 ||compact-online.de^
+
+! ========================================
+! WEITERE PORTALE UND BLOGS
+! ========================================
+||auf1.tv^
+||anonymousnews.org^
+||vermietertagebuch.com^
+||anti-spiegel.ru^
+||uncutnews.ch^
+||report24.news^
+||reitschuster.de^
+||tkp.at^
